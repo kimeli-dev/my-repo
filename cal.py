@@ -31,3 +31,5 @@ if choice in ['1','2','3','4']:
         print(f"the result is:{div(numb1,numb2)}")
 else:
  print("ente the correct intergers")
+ print("i love coding")
+ 
